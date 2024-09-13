@@ -1,0 +1,6 @@
+click
+pynput
+setuptools
+wheel
+build
+twine
